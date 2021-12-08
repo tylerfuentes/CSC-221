@@ -1,0 +1,19 @@
+This folder is a cumulative work in progress on the creation of neural networks. The entirety of the reference material can be found 
+in the selected works of Harrison Kinsley & Daniel Kukiela:
+
+Neural Networks from Scratch in Python | Building Neural Networks in Raw Python
+
+This book provides a step by step tutorial on the implementation of this code and explanations of their execution.
+All of the code presented in these files has been typed out by hand and executed until a successful product has been executed. 
+Errors, and how I resolved them will be included in the files as I become more proficient, not only with building neural networks but, 
+with executing programs in iPython as well. iPython will be the primary means of execution until a more meaningful development environment
+is introduced.
+
+Each file name will match, not necessarily the chapter but, the section of code it most closely represents 
+as new data and new topics are introduced. This is a living document and will be updated as progress is made.
+
+The code in this folder consists of book work completed from pages 1-71 of the textbook:
+
+Neural Networks from Scratch in Python | Building Neural Networks in Raw Python
+
+
